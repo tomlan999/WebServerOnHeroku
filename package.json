@@ -1,5 +1,5 @@
 {
-  "name": "Web Server for html5-300 Class",
+  "name": "web-server-for-html-class",
   "version": "0.1.0",
   "description": "Web Server to host homework",
   "main": "web.js",
